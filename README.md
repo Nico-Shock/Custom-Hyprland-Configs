@@ -2,7 +2,7 @@
 
 **Animations:**
 ```
-kate .config/hypr/hyprland.conf
+kate .config/hypr/animations/animations-default.conf
 ```
 
 **Theme:**

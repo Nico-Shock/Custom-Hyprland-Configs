@@ -24,3 +24,8 @@ kate .config/hypr/windowrules.conf
 ```
 kate .config/hypr/keybindings.conf
 ```
+
+**Wlogout:**
+```
+kate .config/wlogout/style_1.css
+```

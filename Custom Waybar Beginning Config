@@ -1,0 +1,8 @@
+* {
+    border: none;
+    border-radius: 0px;
+    font-family: "DejaVu Sans Mono for Powerline Bold";
+    font-weight: bold;
+    font-size: 14px;
+    min-height: 14px;
+}

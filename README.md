@@ -29,3 +29,8 @@ kate .config/hypr/keybindings.conf
 ```
 kate .config/wlogout/style_1.css
 ```
+
+**Kitty:**
+```
+kate .config/kitty/kitty.conf
+```

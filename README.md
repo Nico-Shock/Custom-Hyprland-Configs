@@ -34,3 +34,8 @@ kate .config/wlogout/style_1.css
 ```
 kate .config/kitty/kitty.conf
 ```
+
+**Waybar:**
+```
+kate .config/waybar/style.css
+```

@@ -39,3 +39,8 @@ kate .config/kitty/kitty.conf
 ```
 kate .config/waybar/style.css
 ```
+
+**Fastfetch:**
+```
+kate .config/fastfetch/config.jsonc
+```

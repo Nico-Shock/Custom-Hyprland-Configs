@@ -1,2 +1,7 @@
     col.active_border = rgba(ffffffff)
     col.inactive_border = rgba(a9a9a9ff)
+
+    OR:
+
+    col.active_border = rgba(ffffff00) rgba(ffffff00) 45deg
+    col.inactive_border = rgba(808080ff) rgba(808080ff) 45deg

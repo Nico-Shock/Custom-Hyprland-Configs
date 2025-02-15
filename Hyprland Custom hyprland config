@@ -1,6 +1,6 @@
 # MONITOR
 
-monitor = 2560x1440@165,auto,1.00
+monitor = ,2560x1440@165,auto,1.00
 
 # KEYBOARD & MOUSE
 

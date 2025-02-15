@@ -1,4 +1,6 @@
-### **I used [HyDE](https://github.com/prasanthrangan/hyprdots) pre-configured Dotfiles.**
+### **(I used [HyDE](https://github.com/prasanthrangan/hyprdots) pre-configured Dotfiles.)**
+
+## **NOW I USE THE NEW [HyDE](https://github.com/HyDE-Project/HyDE) DOTFILES THAT FIX SO MANY IMPORTANT THINGS.**
 
 **Animations:**
 ```

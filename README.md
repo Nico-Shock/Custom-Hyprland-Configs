@@ -4,7 +4,7 @@
 
 **Animations:**
 ```
-kate .config/hypr/animations/animations-default.conf
+kate .config/hypr/animations/theme.conf
 ```
 
 **Theme:**

@@ -49,5 +49,6 @@ kate .config/fastfetch/config.jsonc
 
 **Remove Pictures:**
 ```
-~/.hyde.zshrc
+kate ~/.hyde.zshrc
 ```
+*REMOVE EVERTHING FROM THE FILE.*

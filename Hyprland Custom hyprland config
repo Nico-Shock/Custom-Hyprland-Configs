@@ -16,3 +16,10 @@ input {
     force_no_accel = 1
     numlock_by_default = true
 }
+
+# Advanced Monitor Settings
+
+env = WLR_DRM_VSYNC,1
+env = __GL_GSYNC_ALLOWED,1
+env = __GL_VRR_ALLOWED,1
+env = WLR_NO_HARDWARE_CURSORS,1

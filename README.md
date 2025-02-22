@@ -46,3 +46,8 @@ kate .config/waybar/style.css
 ```
 kate .config/fastfetch/config.jsonc
 ```
+
+**Remove Pictures:**
+```
+~/.hyde.zshrc
+```

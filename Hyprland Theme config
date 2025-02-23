@@ -8,7 +8,7 @@ general {
     gaps_out = 10
     border_size = 2
     col.active_border = rgba(ff85abff) rgba(d5a1d7ff) 45deg
-    col.inactive_border = rgba(31748fcc) rgba(9ccfd8cc) 45deg
+    col.inactive_border = rgba(a0a0a0ff) rgba(c8c8c8ff) 45deg
     layout = dwindle
     resize_on_border = true
 }

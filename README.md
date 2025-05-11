@@ -52,3 +52,6 @@ kate .config/fastfetch/config.jsonc
 kate ~/.hyde.zshrc
 ```
 *REMOVE EVERTHING FROM THE FILE.*
+
+**nwg-dock-hyprland:**
+[MEGA](https://mega.nz/file/cSNEhRhb#jxmF_KzI-h995l6FWFi3djIuuB-Xf-EDw1xn2Z-yFSs)

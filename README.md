@@ -55,3 +55,5 @@ kate ~/.hyde.zshrc
 
 **nwg-dock-hyprland:**
 [MEGA](https://mega.nz/file/cSNEhRhb#jxmF_KzI-h995l6FWFi3djIuuB-Xf-EDw1xn2Z-yFSs)
+
+(Place it in the .config folder)

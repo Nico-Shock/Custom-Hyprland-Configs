@@ -58,4 +58,6 @@ kate ~/.hyde.zshrc
 
 (Place it in the .config folder)
 
+```
 kate .config/hypr/userprefs.conf
+```

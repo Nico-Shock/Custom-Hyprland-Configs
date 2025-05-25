@@ -57,3 +57,5 @@ kate ~/.hyde.zshrc
 [MEGA](https://mega.nz/file/cSNEhRhb#jxmF_KzI-h995l6FWFi3djIuuB-Xf-EDw1xn2Z-yFSs)
 
 (Place it in the .config folder)
+
+kate .config/hypr/userprefs.conf
